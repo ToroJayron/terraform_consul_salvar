@@ -1,5 +1,6 @@
 # terraform_consul_salvar
 documentation on creating consul cluster using terraform
+
 **main.tf**
 In the main.tf 3 instances will be created provided with the user data that will download and install consul
 inside the three instances
